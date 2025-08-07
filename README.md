@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌤️ CloudLanding
 
-## Getting Started
+Uma landing page moderna e responsiva, desenvolvida com **Next.js**, **Tailwind CSS**, **TypeScript** e **next-intl**.
 
-First, run the development server:
+Este projeto foi criado com o objetivo de praticar habilidades de desenvolvimento frontend, recriando e adaptando um [exemplo oficial](https://tailwindcss.com/plus/ui-blocks/marketing/page-examples/landing-pages) do Tailwind UI com toques pessoais e foco em boas práticas.
+
+---
+
+## ✨ Funcionalidades
+
+- ✅ Layout totalmente responsivo (mobile, tablet e desktop)
+- 🌐 Suporte a múltiplos idiomas (Português 🇧🇷 e Inglês 🇺🇸)
+- 🎨 Design limpo com gradientes sutis no fundo
+- ⚡ Estrutura moderna usando **App Router** do Next.js
+- 🧠 Organização voltada para projetos reais (componentização, constantes, i18n, metadados)
+- 💡 Ideal como base para novos projetos ou para fins de estudo
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [next-intl](https://next-intl-docs.vercel.app/) para internacionalização
+
+---
+
+## 🌍 Internacionalização (i18n)
+
+O site está disponível em dois idiomas:
+
+- Português do Brasil (`/pt`)
+- Inglês (`/en`)
+
+A linguagem é detectada automaticamente, e as rotas são prefixadas conforme o idioma escolhido (ex: `/pt`, `/en`).
+
+---
+
+## 🚀 Como rodar localmente
 
 ```bash
+# Clone o repositório
+git clone https://github.com/seuusuario/tailwind-landing-page.git
+
+# Acesse a pasta do projeto
+cd cloud-landing
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

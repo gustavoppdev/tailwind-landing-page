@@ -1,0 +1,171 @@
+{
+  "Navbar": {
+    "login": "Entrar",
+    "navigationLinks": {
+      "product": "Produto",
+      "features": "Recursos",
+      "pricing": "Planos",
+      "faq": "FAQ",
+      "credits": "Creditos"
+    }
+  },
+  "HeroSection": {
+    "title": "Implemente na nuvem com confiança",
+    "paragraph": "Lance seus projetos com velocidade e estabilidade usando nossa plataforma robusta. Confiada por desenvolvedores no mundo todo.",
+    "getStartedBtn": "Começar agora",
+    "learnMoreBtn": "Saiba mais"
+  },
+  "LogoSection": {
+    "paragraphBtn": "A Transistor economiza até R$200.000 por ano, por funcionário, usando nossa plataforma.",
+    "ctaBtn": "Leia o estudo de caso"
+  },
+  "DeploySection": {
+    "subtitle": "Implemente mais rápido",
+    "title": "Tudo o que você precisa para lançar seu app",
+    "paragraph": "Nossa plataforma oferece todas as ferramentas para levar seu app da ideia à produção. Com fluxos otimizados, você cria, testa e publica com agilidade.",
+    "benefits": {
+      "pushToDeploy": {
+        "title": "Push para deploy",
+        "description": "Implemente automaticamente sempre que fizer push para a branch principal. Sem etapas manuais."
+      },
+      "sslCertificates": {
+        "title": "Certificados SSL",
+        "description": "Proteja seu app com certificados SSL gratuitos e automáticos para cada domínio adicionado."
+      },
+      "simpleQueues": {
+        "title": "Filas simples",
+        "description": "Gerencie tarefas em segundo plano com um sistema de filas simples, escalável e confiável."
+      },
+      "advancedSecurity": {
+        "title": "Segurança avançada",
+        "description": "Proteja seus apps com firewall, mitigação de DDoS e controle de acesso integrados."
+      }
+    }
+  },
+  "TestimonialSection": {
+    "testimonial": "“Usar essa plataforma mudou a forma como trabalhamos. É rápida, simples e eficiente. Melhoramos muito o tempo de deploy e a produtividade do time.”",
+    "name": "Judith Black",
+    "title": "CEO da Tuple"
+  },
+  "PricingSection": {
+    "subtitle": "Preços",
+    "title": "Planos que crescem com você",
+    "paragraph": "Escolha um plano que se encaixa nas suas necessidades — de projetos pessoais a grandes empresas. Todos com recursos poderosos.",
+    "plans": {
+      "freelancer": {
+        "title": "Freelancer",
+        "description": "O essencial para entregar o seu melhor trabalho aos clientes",
+        "price": 109,
+        "benefits": [
+          "5 produtos",
+          "Até 1.000 inscritos",
+          "Análises básicas",
+          "Suporte com resposta em até 48h"
+        ]
+      },
+      "startup": {
+        "title": "Startup",
+        "description": "Um plano que cresce com seu negócio em expansão.",
+        "price": 269,
+        "benefits": [
+          "25 produtos",
+          "Até 10.000 inscritos",
+          "Análises avançadas",
+          "Suporte com resposta em até 24h",
+          "Automação de marketing"
+        ]
+      },
+      "enterprise": {
+        "title": "Enterprise",
+        "description": "Suporte dedicado e infraestrutura para sua empresa.",
+        "price": 549,
+        "benefits": [
+          "Produtos ilimitados",
+          "Inscritos ilimitados",
+          "Análises avançadas",
+          "Suporte dedicado com resposta em 1h",
+          "Automação de marketing"
+        ]
+      },
+      "buyPlanBtn": "Comprar plano",
+      "mostPopular": "Mais popular",
+      "pricePerMonth": "/mês"
+    }
+  },
+  "FAQSection": {
+    "title": "Perguntas frequentes",
+    "firstQuestion": {
+      "question": "O que está incluído no plano Freelancer?",
+      "answer": "O plano Freelancer é ideal para projetos individuais. Inclui ferramentas essenciais de deploy, builds automáticos e integração contínua para lançamentos rápidos."
+    },
+    "secondQuestion": {
+      "question": "Posso mudar de plano depois de assinar?",
+      "answer": "Sim, você pode fazer upgrade ou downgrade a qualquer momento no painel. Seus projetos continuam intactos e as mudanças são aplicadas sem interrupções."
+    },
+    "thirdQuestion": {
+      "question": "O plano Enterprise é adequado para grandes equipes?",
+      "answer": "Com certeza. Ele oferece ferramentas de colaboração, infraestrutura dedicada e suporte personalizado para sua empresa."
+    },
+    "fourthQuestion": {
+      "question": "Vocês oferecem período de teste gratuito?",
+      "answer": "Sim! Temos um teste gratuito de 14 dias com acesso completo à maioria dos recursos do plano Startup."
+    },
+    "fifthQuestion": {
+      "question": "Como e onde meus dados são armazenados?",
+      "answer": "Seus dados ficam seguros em nossa infraestrutura em nuvem, com várias regiões disponíveis. Seguimos os melhores padrões de segurança e conformidade."
+    }
+  },
+  "CTASection": {
+    "title": "Aumente sua produtividade. Use nosso app hoje mesmo.",
+    "paragraph": "Otimize seu fluxo de trabalho, publique mais rápido e colabore melhor com a nossa plataforma.",
+    "getStartedBtn": "Começar agora",
+    "learnMoreBtn": "Saiba mais"
+  },
+  "Footer": [
+    {
+      "title": "Soluções",
+      "items": [
+        "Hospedagem",
+        "Serviços de dados",
+        "Monitoramento de uptime",
+        "Serviços para empresas",
+        "Análises"
+      ]
+    },
+    {
+      "title": "Empresa",
+      "items": ["Sobre", "Blog", "Vagas", "Imprensa"]
+    },
+    {
+      "title": "Suporte",
+      "items": ["Enviar ticket", "Documentação", "Guias"]
+    },
+    {
+      "title": "Legal",
+      "items": ["Termos de serviço", "Política de privacidade", "Licença"]
+    }
+  ],
+  "NotFoundPage": {
+    "code": "404",
+    "title": "Página Não Encontrada",
+    "description": "Desculpe, não conseguimos encontrar a página que você está procurando.",
+    "backToHome": "Voltar para a Página Inicial"
+  },
+
+  "metadata": {
+    "title": "TailwindCloud – Faça o deploy da sua aplicação com confiança",
+    "description": "Uma landing page moderna e responsiva feita com Next.js, Tailwind CSS e TypeScript. Suporta português e inglês, com design limpo e gradientes suaves.",
+    "keywords": [
+      "Landing Page",
+      "Next.js",
+      "Tailwind CSS",
+      "TypeScript",
+      "Prática de Frontend",
+      "Next-intl",
+      "Design Responsivo",
+      "Aplicação de Página Única",
+      "Deploy de Aplicações",
+      "Multilíngue"
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "Navbar": {
+    "login": "Log in",
+    "navigationLinks": {
+      "product": "Product",
+      "features": "Features",
+      "pricing": "Pricing",
+      "faq": "FAQ",
+      "credits": "Credits"
+    }
+  },
+  "HeroSection": {
+    "title": "Deploy to the cloud with confidence",
+    "paragraph": "Launch your projects with speed and stability using our robust cloud platform. Trusted by developers worldwide for reliable deployments.",
+    "getStartedBtn": "Get started",
+    "learnMoreBtn": "Learn more"
+  },
+  "LogoSection": {
+    "paragraphBtn": "Transistor saves up to $40,000 per year, per employee by working with us.",
+    "ctaBtn": "Read our case study"
+  },
+  "DeploySection": {
+    "subtitle": "Deploy faster",
+    "title": "Everything you need to deploy your app",
+    "paragraph": "Our platform gives you all the tools to take your app from idea to production. With optimized workflows, you'll build, test, and deploy in record time.",
+    "benefits": {
+      "pushToDeploy": {
+        "title": "Push to deploy",
+        "description": "Automatically deploy your app whenever you push to your main branch. No manual steps needed."
+      },
+      "sslCertificates": {
+        "title": "SSL certificates",
+        "description": "Secure your application with free and automatic SSL certificates for every domain you add."
+      },
+      "simpleQueues": {
+        "title": "Simple queues",
+        "description": "Manage background jobs with an easy-to-use queue system designed for scale and reliability."
+      },
+      "advancedSecurity": {
+        "title": "Advanced security",
+        "description": "Protect your applications with built-in firewalls, DDoS mitigation, and access control."
+      }
+    }
+  },
+  "TestimonialSection": {
+    "testimonial": "“Using this platform changed the way we work. It's fast, simple, and just works. We’ve seen huge improvements in our deployment times and team productivity.”",
+    "name": "Judith Black",
+    "title": "CEO of Tuple"
+  },
+  "PricingSection": {
+    "subtitle": "Pricing",
+    "title": "Pricing that grows with you",
+    "paragraph": "Choose a plan that fits your needs—from personal projects to large-scale businesses. All plans come packed with powerful features.",
+    "plans": {
+      "freelancer": {
+        "title": "Freelancer",
+        "description": "The essentials to provide your best work for clients",
+        "price": 19,
+        "benefits": [
+          "5 products",
+          "Up to 1,000 subscribers",
+          "Basic analytics",
+          "48-hour support response time"
+        ]
+      },
+      "startup": {
+        "title": "Startup",
+        "description": "A plan that scales with your rapidly growing business.",
+        "price": 49,
+        "benefits": [
+          "25 products",
+          "Up to 10,000 subscribers",
+          "Advanced analytics",
+          "24-hour support response time",
+          "Marketing automations"
+        ]
+      },
+      "enterprise": {
+        "title": "Enterprise",
+        "description": "Dedicated support and infrastructure for your company.",
+        "price": 99,
+        "benefits": [
+          "Unlimited products",
+          "Unlimited subscribers",
+          "Advanced analytics",
+          "1-hour, dedicated support response time",
+          "Marketing automations"
+        ]
+      },
+      "buyPlanBtn": "Buy plan",
+      "mostPopular": "Most popular",
+      "pricePerMonth": "/month"
+    }
+  },
+  "FAQSection": {
+    "title": "Frequently asked questions",
+    "firstQuestion": {
+      "question": "What does the Freelancer plan include?",
+      "answer": "The Freelancer plan is designed for individuals and small-scale projects. It includes essential cloud deployment tools, automated builds, and continuous integration to help you launch quickly."
+    },
+    "secondQuestion": {
+      "question": "Can I change my plan after I sign up?",
+      "answer": "Yes, you can upgrade or downgrade at any time from your dashboard. Your projects stay intact and changes are applied without downtime."
+    },
+    "thirdQuestion": {
+      "question": "Is the Enterprise plan suitable for large teams?",
+      "answer": "Absolutely. It offers collaboration tools, dedicated infrastructure, and custom support to meet your company’s needs."
+    },
+    "fourthQuestion": {
+      "question": "Do you offer a free trial period?",
+      "answer": "Yes, we offer a 14-day free trial with full access to most features in the Startup plan."
+    },
+    "fifthQuestion": {
+      "question": "How and where is my data stored?",
+      "answer": "Your data is securely stored in our cloud infrastructure, with options to choose your preferred region. We follow strict security and compliance protocols."
+    }
+  },
+  "CTASection": {
+    "title": "Boost your productivity. Start using our app today.",
+    "paragraph": "Streamline your workflow, improve deployment speeds, and collaborate better with our platform.",
+    "getStartedBtn": "Get started",
+    "learnMoreBtn": "Learn more"
+  },
+  "Footer": [
+    {
+      "title": "Solutions",
+      "items": [
+        "Hosting",
+        "Data services",
+        "Uptime monitoring",
+        "Enterprise services",
+        "Analytics"
+      ]
+    },
+    {
+      "title": "Company",
+      "items": ["About", "Blog", "Jobs", "Press"]
+    },
+    {
+      "title": "Support",
+      "items": ["Submit ticket", "Documentation", "Guides"]
+    },
+    {
+      "title": "Legal",
+      "items": ["Terms of service", "Privacy policy", "License"]
+    }
+  ],
+  "NotFoundPage": {
+    "code": "404",
+    "title": "Page Not Found",
+    "description": "Sorry, we couldn't find the page you're looking for.",
+    "backToHome": "Back to Home"
+  },
+  "metadata": {
+    "title": "TailwindCloud – Deploy your app with confidence",
+    "description": "A modern and responsive landing page built with Next.js, Tailwind CSS, and TypeScript. Supports English and Portuguese with a clean design and gradients.",
+    "keywords": [
+      "Landing Page",
+      "Next.js",
+      "Tailwind CSS",
+      "TypeScript",
+      "Frontend Practice",
+      "Next-intl",
+      "Responsive Design",
+      "Single Page Application",
+      "Deploy App",
+      "Multilingual"
+    ]
+  }
+}

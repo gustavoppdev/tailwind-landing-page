@@ -1,4 +1,4 @@
-# 🌤️ CloudLanding
+# 🌤️ TailwindCloud
 
 Uma landing page moderna e responsiva, desenvolvida com **Next.js**, **Tailwind CSS**, **TypeScript** e **next-intl**.
 
@@ -41,10 +41,10 @@ A linguagem é detectada automaticamente, e as rotas são prefixadas conforme o 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/tailwind-landing-page.git
+git clone https://github.com/gustavoppdev/tailwind-landing-page.git
 
 # Acesse a pasta do projeto
-cd cloud-landing
+cd tailwind-landing-page
 
 # Instale as dependências
 npm install
